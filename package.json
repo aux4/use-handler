@@ -1,6 +1,6 @@
 {
   "name": "@aux4/use-handler",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React hook useHandler",
   "private": false,
   "main": "index.js",
