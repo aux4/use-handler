@@ -1,0 +1,34 @@
+{
+  "name": "@aux4/use-handler",
+  "version": "1.0.0",
+  "description": "React hook useHandler",
+  "private": false,
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aux4/use-handler.git"
+  },
+  "keywords": [
+    "event-driven",
+    "event",
+    "react",
+    "hook",
+    "dispatcher"
+  ],
+  "author": "aux4",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aux4/use-handler/issues"
+  },
+  "homepage": "https://github.com/aux4/use-handler#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  },
+  "peerDependencies": {
+    "@aux4/dispatcher.js": "^1.0.3",
+    "react": "^17.0.2"
+  }
+}
