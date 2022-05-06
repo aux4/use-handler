@@ -28,7 +28,7 @@
     "jest": "^27.1.0"
   },
   "peerDependencies": {
-    "@aux4/dispatcher.js": "^1.0.3",
-    "react": "^17.0.2"
+    "@aux4/dispatcher.js": ">= 1.0.3",
+    "react": ">= 17.0.2"
   }
 }
